@@ -231,9 +231,3 @@ lists them all.
 
 
 <a id="feedback"></a>
-
-## Feedback
-
-You can add bug reports, feature requests, etc., to the [issue tracker](https://todo.sr.ht/~zondo/puche).
-Patches will also be welcome!
-

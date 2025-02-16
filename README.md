@@ -36,7 +36,7 @@ poses the question "Who owns the Zebra?"  given these conditions:
 10. The Japanese lives in the first house.
 11. The man who smokes white powder lives in the house next to the man
     with the fox.
-12. ectasy are smoked in the house next to the house where the horse is
+12. Ectasy are taken in the house next to the house where the horse is
     kept.
 13. The weed smoker drinks orange juice.
 14. The Japanese smokes weed.
